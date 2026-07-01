@@ -15,7 +15,7 @@ A command line expense tracker built with Python and Pandas.
 
 ## How to run
 pip install pandas
-python expense_tracker
+expense_tracker_v1.py
 
 ## What I learned
 - Pandas DataFrames for storing and managing data
